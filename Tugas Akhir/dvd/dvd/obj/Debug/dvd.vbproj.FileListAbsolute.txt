@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\dvd.exe.config
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.Frmdvd.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.Resources.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.Frmsewa.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\dvd.exe
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\dvd.pdb
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\dvd.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.exe
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 14 quiz\dvd\dvd\obj\Debug\dvd.pdb
