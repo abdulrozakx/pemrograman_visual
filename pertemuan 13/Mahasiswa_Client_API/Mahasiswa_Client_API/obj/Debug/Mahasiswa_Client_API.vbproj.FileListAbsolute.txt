@@ -1,0 +1,56 @@
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+c:\users\user\documents\visual studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\Kuliah\Semester 6\pemrograman visual\pertemuan 12\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe.config
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.exe
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.pdb
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Mahasiswa_Client_API.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form1.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Form2.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.Resources.resources
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\obj\Debug\Mahasiswa_Client_API.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\pemrograman visual\Pertemuan 13\Mahasiswa_Client_API\Mahasiswa_Client_API\bin\Debug\MySql.Data.dll
